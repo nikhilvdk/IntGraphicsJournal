@@ -11,8 +11,8 @@ The first piece that stood out to me was Random International's Rain Room at MoM
 
 ### A Subtlety
 
-![Kara Walker](images/subtlety.png?raw=true "Kara Walker")
-![Kara Walker](images/subtlety2.png?raw=true "Kara Walker")
+![Kara Walker](images/subtlety.jpg?raw=true "Kara Walker")
+![Kara Walker](images/subtlety2.jpg?raw=true "Kara Walker")
 Another piece that I found really exciting and immersive was Kara Walker’s A Subtlety in Brooklyn’s famous Domino Sugar factory. I was able to go to this exhibit a few years ago and it was an exciting experience. The exhibit is inside an old and decrepit sugar factory that leaks from the ceilings and still has molasses dripping from the walls (I remember having to sign a waiver before entering). Domino allowed the art to exist in the space for a period right before the factory was demolished. The exhibition consisted of smaller sculptures of young children made from molasses which lined the floors, and a giant sphynx-like lady made of sugar that engulfed the room. It was a very immersive experience being in the place that produced the materials for the sculptures. The floors were sticky and the molasses babies were already melting apart, and the smell was cloying, so visitors interacted with the space in tangible ways. It was very meaningful as it referenced slavery and imperialism where sugar was traded for bodies. It was a poignant critique of our fascination with the monumentality of spectacle at a surface level possibly without understanding of backstory.
 
 [Here's a link to the project](http://creativetime.org/projects/karawalker/)
