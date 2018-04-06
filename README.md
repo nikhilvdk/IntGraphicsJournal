@@ -70,3 +70,25 @@ The second piece that I found is more focused on telling a story. Using music li
 
 I found this to be an interesting and different type of interactive and story driven data visualization that was of particular interest to me as I am curious about music listening habits and the emotions associated with them. The overall site (Quantified Selfie) makes a great point that we are the biggest creators of data points throughout our daily lives and interactions. It is often haunting, sad or nostalgic to look back in a summarized way with “digitally assisted remembering”. The site (that also includes visualizations of email trends between a woman and her ex) poses the question if these memories were meant to be left behind or if being able to analyze and reflect with data is useful to trigger memories and reflect and understand your own life. I personally really do enjoy being able to leave some digital footprints that I can look back on to better understand how the experiences I have lived has affected my (technological) behavior.
 [Link to Project](http://quantifiedselfie.us/nyc365/)
+
+
+
+# Week 11 Journal : Connecting Things Pieces
+
+### [Reflektor Music Video - Arcade Fire](https://www.justareflektor.com/ )
+
+Arcade Fire has many really cool and interesting music "videos" that require user interaction or connection. This music video experience (which was created by the band in conjunction with Google) was particularly exciting for me as it was an actually meaningful use of technology that connected to the theme and subject of the song.
+
+In the video, your phone acts as the Reflektor, that you must point at the screen and move around to shine a light, exposing and blurring/blending the video and focusing on subjects moving through Haiti while partially obscuring your own view. Your interaction drives how the subjects of the video are presented, changing colors or finding them in the darkness. Towards the end, you even control beams of light that connect to the subject - making it look almost like you are controlling a puppet on strings.
+
+The video and lyrics begin to comment on an uneasy relationship we have with technology. Lyrics include “We’re so connected, but are we even friends?” and “we fell in love at 19, and I was staring at a screen”. In the end, dark characters surround the dancer protagonist using the technology light beams in an aggressive, controlling way. The protagonist then breaks free and "shatters" your tethered Reflektor and your phone becomes an obsolete technology shell. Overall, I found thsi to be a really exciting use of connected devices to bring the music video into the modern, interactive age. 
+
+
+
+### [Aristotle's Office by Hollington & Kyprianou](http://www.electronicsunset.org/node/310)
+
+I came across a very interesting, piece that seemed to provide commentary on the idea of physical computing and "connected things" itself. In this piece, we try to understand how different household objects (answer machine, bin, fan, filing cabinets, lamp, plant, telephone, watercooler) would interact with one another minimizing the human intermediary. What would their relationship be like? How do they interact?
+
+Using minimally programmed interaction rules, these different objects are hooked up to a central panel. The different objects send electrical signals through to the board and different events are triggered based of the signals sent and recieved by each object. Though this might just be electrical interactions, it is interesting to see it in the light of "how does the cabinet respond when the fan starts spinning really fast nearby", or "how will the plant move with the water cooler".
+
+Its interesting to see the idea of humans being able to exersize control over objects and forcing them to communicate to convey our messages flipped on its head, and to instead see their perspective and how they interact. I also like to see physical computing/IOT explored in a not completely utilitarian way, examining the nature of how non-sentient things can be given a voice to interact (even these non electronic items like plants and trash bins).
