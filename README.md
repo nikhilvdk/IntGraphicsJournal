@@ -75,7 +75,7 @@ I found this to be an interesting and different type of interactive and story dr
 
 # Week 11 Journal : Connecting Things Pieces
 
-### [Reflektor Music Video - Arcade Fire](https://www.justareflektor.com/ )
+### [Reflektor Music Video - Arcade Fire](https://www.justareflektor.com)
 
 Arcade Fire has many really cool and interesting music "videos" that require user interaction or connection. This music video experience (which was created by the band in conjunction with Google) was particularly exciting for me as it was an actually meaningful use of technology that connected to the theme and subject of the song.
 
