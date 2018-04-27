@@ -92,3 +92,23 @@ I came across a very interesting, piece that seemed to provide commentary on the
 Using minimally programmed interaction rules, these different objects are hooked up to a central panel. The different objects send electrical signals through to the board and different events are triggered based of the signals sent and recieved by each object. Though this might just be electrical interactions, it is interesting to see it in the light of "how does the cabinet respond when the fan starts spinning really fast nearby", or "how will the plant move with the water cooler".
 
 Its interesting to see the idea of humans being able to exersize control over objects and forcing them to communicate to convey our messages flipped on its head, and to instead see their perspective and how they interact. I also like to see physical computing/IOT explored in a not completely utilitarian way, examining the nature of how non-sentient things can be given a voice to interact (even these non electronic items like plants and trash bins).
+
+
+
+
+
+# Week 15 Journal : Reflection
+
+I am very happy with my experiences in ISS 294: Interactive Graphics Critical Code. Though I had some previous experience in algorithms and computer science theory, this class was a really great opportunity for me to gain further practical CS skills through a creative and artistic lens. Though I have always enjoyed modern and contemporary art, I have never considered myself to be the most artistically talented when it comes to painting or drawing. I was excited by the opportunities and windows that p5.js opened for me to engage and create media in an "unconventional" way through frameworks I was familiar with. Sketching with code allowed me to create dynamic pieces that could be generated randomly or algorithmically and that could be interacted with by the user but could never have been made on paper. I was not only excited to learn how to use js to create sketches from my imagination but also to learn workflow tools like VS Code's simpleserver, how to run node.js on the backend and how to showcase sketches on heroku/GitHub. I also appreciated the time we put into studying new media artists and having critiques of each others' pieces - providing inspiration and creative perspective for how art has evolved and how far reaching and engaging it can be.
+
+
+
+I was particularly excited by the class' topic on data visualization. As the amount of data available in the world skyrockets, there is an increasing need to organize and visualize it in meaningful ways. I was excited to dive deeper into this area and explore unconventional methods for telling a story and relaying raw information. I was further suprised to realize how many js libraries there were out there and their potential to be used for an endless range of scenarios. Engaging with computer vision and face tracking using FaceOSC was also particularly exciting since I expected that the "barrier to use" would be much higher as it is such a modern/current technology. I was excited to realize that integrating with the physical world and IOT devices like photons or raspberry pi's is more feasible than I thought. 
+
+
+
+In terms of challenges, I occasionally found it difficult to ideate and come up with creative, artistic concepts that could be realized knowing the skills that I have. On top of that, challenge also lay in the aesthetic design of the art pieces. I often found myself gaining inspiration by studying the tools/capabilities offered by p5.js as opposed to coming up with an idea in isolation only to realize that its technical realization would not be feasible. But now that I am more aware and comfortable with my/p5's capabilities, I have a wider inspiration landscape to explore. On top of that, it was definitely a challenge to go beyond the basic color and shape schemes of sketches and try to keep up with advanced levels of graphic design that we have been spoiled with so much online these days. I was glad to be pushed outside of my comfort zone in this creative way. 
+
+
+
+Overall, I am very happy that I was able to take this course. It was exciting to really dive into new media and learn about the directions art is expanding into. It was both fun, and a good challenge that expanded my horizons both artistically and technically. 
