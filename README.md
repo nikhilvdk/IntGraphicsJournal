@@ -112,3 +112,11 @@ In terms of challenges, I occasionally found it difficult to ideate and come up 
 
 
 Overall, I am very happy that I was able to take this course. It was exciting to really dive into new media and learn about the directions art is expanding into. It was both fun, and a good challenge that expanded my horizons both artistically and technically. 
+
+
+
+Sharing my portfolio:
+
+
+
+<img src="/images/SharePortfolio.jpg" width="700">
